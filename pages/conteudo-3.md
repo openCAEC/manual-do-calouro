@@ -37,3 +37,7 @@ Lembre-se, a monitoria é uma ótima oportunidade para aprimorar suas habilidade
 
 # Link
 resumo dessa tabela com os itens que seria interessante para um estudante de graduação engenharia de computação
+
+## Gestão do tempo
+
+Utilize ferramentas de organização como o Google Calendar (https://calendar.google.com) ou Notion (https://notion.so/) para planejar seus estudos e acompanhar datas de exames e prazos de trabalhos, para ajudá-lo a gerenciar melhor o seu tempo acesse (https://portal.bu.ufsc.br/servicos/apoio-a-gestao-do-tempo).

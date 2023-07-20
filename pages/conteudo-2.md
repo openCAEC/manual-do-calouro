@@ -1,15 +1,5 @@
 # Estudando na UFSC
 
-## Centro de Ciências, Tecnologia e Saúde (CTS)
-
-O CTS coordena as atividades de ensino, pesquisa e extensão nas áreas de Ciências, Tecnologia e Saúde na UFSC. O CTS é composto por diferentes coordenadorias e departamentos, incluindo:
-
-- **[Coordenadoria Especial de Física, Química e Matemática (FQM)](http://fqm.ufsc.br/):** Este departamento oferece disciplinas nas áreas de Física, Química e Matemática.
-
-- **[Coordenadoria Especial Interdisciplinar em Tecnologias da Informação e Comunicação (CIT)](http://cit.ufsc.br/):** Este departamento oferece disciplinas relacionadas à educação, academia e tecnologia da informação.
-
-- **[Departamento de Computação (DEC)](http://dec.ufsc.br/):** Este departamento oferece disciplinas relacionadas à área de computação.
-
 ## Índice de Aproveitamento (IA)
 
 O Índice de Aproveitamento Semestral (IA) é calculado pela soma de todas as notas das disciplinas cursadas em um semestre, dividida pelo número de disciplinas. Este índice representa o desempenho do estudante em um semestre específico.
@@ -69,3 +59,29 @@ Lembre-se de que é de sua responsabilidade manter um bom desempenho acadêmico.
 ### Empreendedorismo e inovação
 
 A UFSC incentiva o espírito empreendedor e possui iniciativas para apoiar alunos interessados em inovação e empreendedorismo. A Empresa Júnior de Engenharia de Computação formada e gerida por alunos de graduação da UFSC Araranguá. Para saber mais sobre a EJEC, você pode visitar o site (http://ejec.com.br).
+
+## Serviços de Orientação de Carreira
+
+1. **Orientação de Carreira:** A UFSC oferece sessões de orientação de carreira individuais ou em grupo, onde você pode explorar suas opções de carreira, definir objetivos e desenvolver um plano de ação.
+
+2. **Oficinas de Currículos e Entrevistas:** Estas oficinas são projetadas para ajudar você a se destacar no mercado de trabalho. Elas abordam tópicos como a elaboração de um currículo impressionante, o desenvolvimento de habilidades de entrevista e a apresentação eficaz de suas competências.
+
+3. **Feiras de Carreira:** Estes eventos proporcionam a oportunidade de conhecer potenciais empregadores, descobrir oportunidades de estágio e emprego, e estabelecer contatos profissionais.
+
+## Centro de Ciências, Tecnologia e Saúde (CTS)
+
+O CTS coordena as atividades de ensino, pesquisa e extensão nas áreas de Ciências, Tecnologia e Saúde na UFSC. O CTS é composto por diferentes coordenadorias e departamentos, incluindo:
+
+- **[Coordenadoria Especial de Física, Química e Matemática (FQM)](http://fqm.ufsc.br/):** Este departamento oferece disciplinas nas áreas de Física, Química e Matemática.
+
+- **[Coordenadoria Especial Interdisciplinar em Tecnologias da Informação e Comunicação (CIT)](http://cit.ufsc.br/):** Este departamento oferece disciplinas relacionadas à educação, academia e tecnologia da informação.
+
+- **[Departamento de Computação (DEC)](http://dec.ufsc.br/):** Este departamento oferece disciplinas relacionadas à área de computação.
+
+## PIPE - Programa Institucional de  Apoio Pedagógico aos Estudantes
+
+O Programa Institucional de Apoio Pedagógico aos Estudantes [PIAPE](https://piape.ararangua.ufsc.br): um programa que visa atender as necessidades específicas de aprendizagem dos estudantes da UFSC, considerando seus aspectos epistêmicos, humanos e sociais.
+
+## Saúde e Bem-estar
+
+Sabemos que a vida universitária pode ser estressante. Por isso, a UFSC oferece um serviço de apoio psicológico, o [SAPSI](http://sapsi.paginas.ufsc.br). Se sentir necessidade, não hesite em buscar ajuda.

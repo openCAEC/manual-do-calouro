@@ -1,17 +1,5 @@
 # Estudando na UFSC
 
-## Horário de Aulas
-
-As aulas na UFSC têm duração de 50 minutos cada, equivalendo a uma (1) hora-aula (H/A). As aulas são realizadas de segunda a sexta-feira, de acordo com os seguintes horários:
-
-- Manhã: 07h30 às 11h50
-- Tarde: 13h30 às 18h00
-- Noite: 18h30 às 22h00
-
-No sábado, as aulas ocorrem apenas no período da manhã.
-
-Para acessar seus horários de aula, faça login na área do aluno através do [CAGR](http://cagr.sistemas.ufsc.br) e clique em "Grade de Horários".
-
 ## Validação de Disciplinas
 
 Se você já cursou disciplinas em outra Instituição de Ensino Superior (IES) e está buscando a validação dessas disciplinas na UFSC, veja a seguir as etapas do processo no link [DAE Validação de Disciplinas](https://dae.ufsc.br/validacao-de-disciplinas-area-do-aluno/)

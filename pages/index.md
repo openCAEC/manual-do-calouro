@@ -1,30 +1,112 @@
 # Manual para Calouro - Engenharia de Computação, Centro Acadêmico da UFSC Araranguá
 
-Bem-vindo à Universidade Federal de Santa Catarina (UFSC), Campus Araranguá! A seguir, forneceremos informações importantes para os novos alunos do curso de Engenharia de Computação.
+Parabéns por ser aceito na Universidade Federal de Santa Catarina (UFSC)! A seguir, forneceremos informações importantes para os novos alunos do curso de Engenharia de Computação
 
 ## Matrícula e Sistemas de Aprendizado
 
-As matrículas são realizadas através do sistema CAGR - Controle Acadêmico da Graduação. Para dúvidas e esclarecimentos sobre o processo de matrícula, envie um email para [sig.cts.ara@contato.ufsc.br](mailto:sig.cts.ara@contato.ufsc.br) com o assunto "[Matrícula de Calouro] + Seu Nome Completo". Acesse o sistema CAGR [aqui](http://cagr.sistemas.ufsc.br).
+As matrículas são realizadas através do sistema CAGR - Controle Acadêmico da Graduação. Para dúvidas e esclarecimentos sobre o processo de matrícula, envie um email para [sig.cts.ara@contato.ufsc.br](mailto:sig.cts.ara@contato.ufsc.br) com o assunto "[Matrícula de Calouro] + Seu Nome Completo". Acesse o sistema CAGR [aqui](http://cagr.sistemas.ufsc.br)
 
-Além disso, a UFSC utiliza a plataforma Moodle como apoio ao ensino. Professores podem postar materiais de aula, atividades, e promover fóruns de discussão. Acesse o Moodle com seu IDUFSC e senha do CAGR [aqui](https://moodle.ufsc.br).
+Além disso, a UFSC utiliza a plataforma Moodle como apoio ao ensino. Professores podem postar materiais de aula, atividades, e promover fóruns de discussão. Acesse o [Moodle](https://moodle.ufsc.br) com seu IDUFSC e senha do CAGR
 
 ## Secretaria Integrada de Graduação (SIG)
 
-A SIG é responsável por realizar funções administrativas e acadêmicas dos conselhos de cursos de graduação do Centro de Ciências, Tecnologias e Saúde do Campus Araranguá. Para mais informações, acesse o site da [SIG Araranguá UFSC](http://sig.ararangua.ufsc.br).
+A SIG é responsável por realizar funções administrativas e acadêmicas dos conselhos de cursos de graduação do Centro de Ciências, Tecnologias e Saúde do Campus Araranguá. Para mais informações, acesse o site da [SIG Araranguá UFSC](http://sig.ararangua.ufsc.br)
 
-O Cartão de Acesso UFSC é essencial para acessar várias instalações na universidade, como a biblioteca e o restaurante universitário. Para adquiri-lo, dirija-se à Secretaria Integrada de Graduação (SIG).
+O Cartão de Acesso UFSC é essencial para acessar várias instalações na universidade, como a biblioteca e o restaurante universitário. Para adquiri-lo, dirija-se à Secretaria Integrada de Graduação (SIG)
+
+**Biblioteca Universitária**: A BU permite o empréstimo de livros, uso de computadores e espaços para estudo. O cartão de acesso UFSC é necessário para empréstimos. Para acessar a Biblioteca online tirar duvidas acesse link para mais informação [Portal BU](https://portal.bu.ufsc.br).
+
+## PREA - Pró-Reitoria de Permanência e Assuntos Estudantis
+
+Funcionando como uma engrenagem essencial na Universidade Federal de Santa Catarina (UFSC), a PREA é responsável por uma variedade de programas e serviços fundamentais para os estudantes. Estes incluem:
+
+1. **Assistência Estudantil:** Fornece suporte financeiro, acadêmico e social para estudantes que necessitam de auxílio.
+2. **LabUfsc**: Um laboratório de informática avançado, destinado a auxiliar os estudantes em suas necessidades digitais e tecnológicas.
+3. **Moradia Estudantil:** Um programa que oferece alojamento a estudantes da universidade que não têm onde morar durante os estudos.
+4. **Psicologia Educacional:** Um serviço que promove o bem-estar mental e emocional dos estudantes, oferecendo suporte psicológico e intervencionista.
+5. **Restaurante Universitário:** Para se alimentar no RU, adicione créditos ao seu cartão de acesso no site [RU](https://ru.ararangua.ufsc.br). O valor da refeição é de R$1,50 para estudantes de graduação.
+
+Para mais informações sobre cada serviço e como acessá-los, visite o site da [PRAE](https://prae.ufsc.br)
+
+## Calendário acadêmico
+
+O primeiro passo é verificar o calendário acadêmico da UFSC. Isso fornecerá informações sobre quando as aulas começam, bem como quaisquer prazos importantes, como a última data para o registro de disciplinas, datas de exames, períodos de férias e assim por diante.
+
+No site do Departamento de Administração Escolar (DAE), você tem acesso ao calendário acadêmico da UFSC: [https://dae.ufsc.br/calendario-academico-de-graduacao/](https://dae.ufsc.br/calendario-academico-de-graduacao/)
+
+## Horário de Aulas
+
+As aulas na UFSC têm duração de 50 minutos cada, equivalendo a uma (1) hora-aula (H/A). As aulas são realizadas de segunda a sexta-feira, de acordo com os seguintes horários:
+
+- Manhã: 07h30 às 11h50
+- Tarde: 13h30 às 18h00
+- Noite: 18h30 às 22h00
+
+No sábado, as aulas ocorrem apenas no período da manhã.
+
+Para acessar seus horários de aula, faça login na área do aluno através do [CAGR](http://cagr.sistemas.ufsc.br) e clique em "Grade de Horários".
+
+### Código do horário
+
+O código do horário é formatado como "4.16:20-2" ou "6.07:30-3". O primeiro dígito é referente ao dia da semana (2=segunda, 3=terça, e assim por diante). Os próximos quatro valores são referentes ao horário da aula e o último dígito indica a quantidade de aulas.
+
+### Código de disciplina
+
+Códigos de disciplina seguem o formato de 3 letras e 4 dígitos. As letras indicam o departamento responsável pela disciplina, como DEC, DCS, EES, FQM, CIT. Por exemplo, FQM7101 se refere à disciplina de Cálculo I.
+
+### Código de turma
+
+O código da turma é composto de 5 dígitos, sendo os dois primeiros referentes à fase e os 3 últimos ao curso, 652-TIC, 653-ENE, 654-FISIO, 655-ENC. Exemplo: 01655, turma 01 do curso 655 que é Engenharia de Computação.
+
+### Código de sala
+
+Os códigos das salas são formatados com duas letras e três números, seguidos da numeração do bloco. Por exemplo, SL303A se refere à sala 03 do 3 andar do bloco A.
+
+## Primeiras Matérias
+
+As primeiras matérias do curso de Engenharia de Computação da UFSC Araranguá são obrigatórias e são necessárias para o resto do curso. Essas matérias introduzem os conceitos básicos de programação, computação, circuitos digitais, matemática e geometria analítica. Para acessar o currículo do curso segue link [http://cagr.sistemas.ufsc.br/relatorios/curriculoCurso?curso=655](http://cagr.sistemas.ufsc.br/relatorios/curriculoCurso?curso=655)
+
+### Linguagem de Programação I - DEC0012
+
+Esta disciplina introduz o conceito de linguagem de programação. Os alunos aprendem sobre a estrutura de uma linguagem de programação, sintaxe, semântica e compilação. linguagem de programação geralmente usada é C
+
+### Introdução à Engenharia de Computação - DEC7070
+
+Esta disciplina fornece uma visão geral da engenharia de computação. Os alunos aprendem sobre a história da computação, os fundamentos da computação, os diferentes tipos de sistemas de computação e as diferentes áreas de aplicação da computação. Eles também aprendem sobre os diferentes tipos de profissionais de computação, como engenheiros de software, arquitetos de sistemas e analistas de sistemas.
+
+### Circuitos Digitais - DEC7546
+
+Esta disciplina introduz os conceitos básicos de circuitos digitais. Os alunos aprendem sobre sistemas numéricos, álgebra booleana, portas lógicas, circuitos combinacionais, circuitos sequenciais e simulação de circuitos. Eles também aprendem sobre os diferentes tipos de circuitos digitais, como circuitos aritméticos, circuitos de controle e circuitos de memória.
+
+### Pré-Cálculo - FQM7001
+
+Esta disciplina fornece uma base matemática para o estudo da engenharia de computação. Os alunos aprendem sobre conjuntos e aritmética básica, cálculo com expressões algébricas, equações, inequações e funções. Eles também aprendem sobre os diferentes tipos de funções, como funções polinomiais, funções exponenciais e funções logarítmicas.
+
+### Geometria Analítica - FQM7103
+
+Esta disciplina introduz os conceitos básicos de geometria analítica. Os alunos aprendem sobre retas, planos, cônicas e quádricas. Eles também aprendem sobre os diferentes tipos de curvas, como curvas algébricas, curvas logarítmicas e curvas paramétricas
+
+## Conhecendo o campus
+
+O campus da UFSC em Araranguá tem duas unidades a que fica no bairro Jardim das Avenidas - CEP: 88.906-072, a cerca de 2 quilômetros do centro da cidade de Araranguá é onde são a maioria das aulas e também é onde fica a Biblioteca. A outra unidade fica no bairro Mato Alto - CEP: 88.905-120 onde fica alguns dos laboratórios
+
+O Campus Araranguá é uma área arborizada e bem cuidada. O campus é cercado por uma série de parques e jardins, o que o torna um ambiente agradável para estudar e trabalhar.
+
+## Custo de vida em Araranguá
+
+Se você estiver se mudando para Santa Catarina, organize sua acomodação com antecedência. Além disso, verifique as rotas de transporte para o campus da universidade.
+
+- Aluguel: O custo do aluguel em Araranguá varia de R$ 370,00 a R$ 1.286,67, dependendo da localização e do tamanho do imóvel.
+
+- Alimentação: O custo da alimentação em Araranguá também varia, mas geralmente é mais barato do que em outras cidades do Brasil. Um almoço em um restaurante barato custa cerca de R$ 11,98, enquanto um almoço em um restaurante caro custa cerca de R$ 31,39.
+
+- Transporte: O custo do transporte em Araranguá também é relativamente baixo. Uma passagem de ônibus custa R$ 3,40, e uma corrida de táxi custa cerca de R$ 10,00 por quilômetro.
+
+No geral, o custo de vida em Araranguá é relativamente baixo, tornando-a uma cidade acessível para estudantes de graduação em Engenharia de Computação. Para mais informações sobre outros custos acesse link [www.custodevida.com.br/sc/ararangua/](http://www.custodevida.com.br/sc/ararangua/)
 
 ## Monitoria e Atividades Extracurriculares
 
 Você pode obter informações sobre a monitoria através do sistema [Moni](https://moni.sistemas.ufsc.br). Lá você encontrará informações sobre quais disciplinas possuem monitores, os horários e locais de atendimento, e o plano de atividades. Editais e cronogramas emitidos pela Coordenação Acadêmica são publicados ao longo do ano letivo no site da [Secretaria Integrada de Departamentos](https://sid.cts.ararangua.ufsc.br/).
-
-## Saúde e Bem-estar
-
-Sabemos que a vida universitária pode ser estressante. Por isso, a UFSC oferece um serviço de apoio psicológico, o [SAPSI](http://sapsi.paginas.ufsc.br). Se sentir necessidade, não hesite em buscar ajuda.
-
-## Gestão do tempo
-
-Utilize ferramentas de organização como o Google Calendar (https://calendar.google.com) ou Notion (https://notion.so/) para planejar seus estudos e acompanhar datas de exames e prazos de trabalhos, para ajudá-lo a gerenciar melhor o seu tempo acesse (https://portal.bu.ufsc.br/servicos/apoio-a-gestao-do-tempo).
 
 ## Projetos Esportivos
 
@@ -42,38 +124,18 @@ A pesquisa é uma componente fundamental na engenharia de computação. Na UFSC,
 
 Para além da sala de aula, as Atividades Complementares são obrigatórias e reforçam sua formação social e profissional. Elas podem incluir workshops, seminários, competições de programação e muito mais. Se você precisar de mais informações, envie um e-mail para [sig.cts.ara@contato.ufsc.br](mailto:sig.cts.ara@contato.ufsc.br).
 
-## Serviços de Orientação de Carreira
-
-1. **Orientação de Carreira:** A UFSC oferece sessões de orientação de carreira individuais ou em grupo, onde você pode explorar suas opções de carreira, definir objetivos e desenvolver um plano de ação.
-
-2. **Oficinas de Currículos e Entrevistas:** Estas oficinas são projetadas para ajudar você a se destacar no mercado de trabalho. Elas abordam tópicos como a elaboração de um currículo impressionante, o desenvolvimento de habilidades de entrevista e a apresentação eficaz de suas competências.
-
-3. **Feiras de Carreira:** Estes eventos proporcionam a oportunidade de conhecer potenciais empregadores, descobrir oportunidades de estágio e emprego, e estabelecer contatos profissionais.
-
 ## Oportunidades de Estágio e Emprego
 
 A UFSC regularmente posta oportunidades de estágio e emprego no site da universidade, através do [DIP](https://dip.ufsc.br). É fundamental verificar regularmente essas postagens para não perder nenhuma oportunidade.
 
-4.5. **Restaurante Universitário**: Para se alimentar no RU, adicione créditos ao seu cartão de acesso no site [RU](https://ru.ararangua.ufsc.br). O valor da refeição é de R$1,50 para estudantes de graduação.
+## CAEC - Centro Acadêmico de Engenharia de Computação
 
-4.6. **Biblioteca Universitária**: A BU permite o empréstimo de livros, uso de computadores e espaços para estudo. O cartão de acesso UFSC é necessário para empréstimos. Confira como fazer empréstimos e usar a biblioteca [BU](https://portal.bu.ufsc.br).
+O CAEC representa os estudantes de Engenharia de Computação da UFSC Araranguá. Para recebem os aviso entre no nosso grupo do [WhatsApp](https://chat.whatsapp.com/Fyd0jyH1re11GIf7GMYyUt). Para contato, envie e-mail para [caecufsc@gmail.com](mailto:caecufsc@gmail.com) ou mensagem via Instagram @caecufsc
 
-4.11. **Ouvidoria**: A Ouvidoria da UFSC é um canal para expressar dúvidas, críticas, sugestões e elogios. Veja como usar a Ouvidoria da UFSC [Ouvidoria](https://ouvidoria.ufsc.br).
+## CAE - Coordenadoria de Acessibilidade Educacional
 
-4.16. **CAE - Coordenadoria de Acessibilidade Educacional**: CAE é um setor da UFSC que promove a acessibilidade educacional para as pessoas com deficiência, oferecendo oportunidades de autonomia e conhecimento. Saiba mais sobre os serviços do CAE [CAE](https://cae.ufsc.br)
+CAE é um setor da UFSC que promove a acessibilidade educacional para as pessoas com deficiência. Saiba mais sobre os serviços do [CAE](https://cae.ufsc.br)
 
-## PREA - Pró-Reitoria de Permanência e Assuntos Estudantis
+## Ouvidoria
 
-Funcionando como uma engrenagem essencial na Universidade Federal de Santa Catarina (UFSC), a PREA é responsável por uma variedade de programas e serviços fundamentais para os estudantes. Estes incluem:
-
-1. **Assistência Estudantil:** Fornece suporte financeiro, acadêmico e social para estudantes que necessitam de auxílio.
-2. **LabUfsc**: Um laboratório de informática avançado, destinado a auxiliar os estudantes em suas necessidades digitais e tecnológicas.
-3. **Moradia Estudantil:** Um programa que oferece alojamento a estudantes da universidade que não têm onde morar durante os estudos.
-4. **Psicologia Educacional:** Um serviço que promove o bem-estar mental e emocional dos estudantes, oferecendo suporte psicológico e intervencionista.
-5. **Restaurante Universitário:** Prove alimentos nutritivos a preços acessíveis, contribuindo para a saúde e bem-estar dos estudantes.
-
-Para mais informações sobre cada serviço e como acessá-los, visite o site da PREA: [https://prae.ufsc.br](https://prae.ufsc.br).
-
-4.29. **PIPE - Programa Institucional de  Apoio Pedagógico aos Estudantes**: O Programa Institucional de Apoio Pedagógico aos Estudantes (PIAPE): um programa que visa atender as necessidades específicas de aprendizagem dos estudantes da UFSC, considerando seus aspectos epistêmicos, humanos e sociais (https://piape.ararangua.ufsc.br).
-
-4.8. **CAEC - Centro Acadêmico de Engenharia de Computação**: O CAEC representa os estudantes de Engenharia de Computação da UFSC Araranguá e organiza eventos, palestras, festas e feiras. Para contato, envie e-mail para caecufsc@gmail.com ou mensagem via Instagram @caecufsc.
+A Ouvidoria da UFSC é um canal para expressar dúvidas, críticas, sugestões e elogios. Veja como usar a Ouvidoria da UFSC [Ouvidoria](https://ouvidoria.ufsc.br)

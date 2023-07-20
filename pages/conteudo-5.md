@@ -1,4 +1,4 @@
-# Liste de Software UFSC
+# Lista de Software UFSC
 
 Para acessar lista completa do [https://otrs.setic.ufsc.br/otrs/public.pl](https://otrs.setic.ufsc.br/otrs/public.pl)
 

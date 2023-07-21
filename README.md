@@ -1,23 +1,30 @@
-# Nextra Docs Template 
+# Manual para Calouro - Engenharia de Computação, Centro Acadêmico da UFSC Araranguá
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+## Paginas
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+### Introdução
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+- Sistema de Matrícula e Aprendizagem
+- Calendário Acadêmico
+- Moodle
+- Horário das Aulas
+- Código da Sala
 
-## Quick Start
+### Curriculo
 
-Click the button to clone this repository and deploy it on Vercel:
+- Currículo do Curso
+- Validação de Disciplinas
+- Segunda Chamada de Avaliações
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
 
-## Local Development
+### Índices
 
-First, run `pnpm i` to install the dependencies.
+- Índice de Aproveitamento
+- Presença
+- Saúde e bem-estar
 
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
+### Monitoria
 
 ## License
 
-This project is licensed under the MIT License.
+Este projeto está licenciado sob a licença MIT.

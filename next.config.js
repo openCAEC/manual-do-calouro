@@ -11,7 +11,7 @@ const config = {
   ...nextra_conf,
   output: "export",
   distDir: "docs",
-  basePath: "/manual-do-calouro/",
+  basePath: "/manual-do-calouro",
   images: {
     unoptimized: true,
   },

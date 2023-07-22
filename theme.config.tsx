@@ -6,9 +6,6 @@ const config: DocsThemeConfig = {
   project: {
     link: "https://github.com/shuding/nextra-docs-template",
   },
-  chat: {
-    link: "https://discord.com",
-  },
   docsRepositoryBase: "https://github.com/shuding/nextra-docs-template",
   footer: {
     text: "Manual do Calouro, CAEC",
@@ -18,7 +15,7 @@ const config: DocsThemeConfig = {
     text: "CAEC",
   },
   editLink: {
-    text: "Edit this page on GitHub",
+    text: "Edite esta página no GitHub",
   },
   //faviconGlyph: '✦',
 };

@@ -1,6 +1,7 @@
-# Destaques Essenciais
+# Resumo
 
 Matrículas e sistemas de ensino o primeiro passo para consultar o calendário acadêmico. Também há informações sobre como as aulas são executadas, incluindo tempo, disciplina, código da classe e código da sala. Você também pode saber mais sobre as atividades extracurriculares que a UFSC oferece aos alunos. Atletismo, pesquisa científica e laboratórios de pesquisa são ótimas maneiras de os alunos avançarem em sua educação. Há também muitos estágios e oportunidades de trabalho disponíveis. Se a sua ausência for por motivos de saúde, deverá apresentar um pedido por escrito no prazo de três dias a contar da data da primeira revisão. Se um aluno receber uma nota de reprovação, ele ou ela não poderá participar da bolsa de estudos ou do programa de intercâmbio da universidade.
+## Destaques Essenciais
 
 1.1. Sistemas de matrícula e aprendizagem o sistema [CAGR](http://cagr.sistemas.ufsc.br) é utilizado para matrícula e a plataforma Moodle para apoio pedagógico.
 
@@ -12,7 +13,7 @@ Matrículas e sistemas de ensino o primeiro passo para consultar o calendário a
 
 1.5. Biblioteca universitária aqui você pode pegar livros emprestados, usar computadores e espaços de estudo visite pagina  [Portal BU](https://portal.bu.ufsc.br).
 
-1.6. PREA oferece programas e serviços básicos para estudantes, incluindo assistência estudantil, psicologia educacional e restaurante universitário, visite o site da [PRAE](https://prae.ufsc.br).
+1.6. [PRAE](https://prae.ufsc.br) oferece programas e serviços básicos para estudantes, incluindo assistência estudantil, psicologia educacional e restaurante universitário.
 
 1.7. Custo de vida em Araranguá o custo de vida em Araranguá é relativamente baixo, visite pagina [Custo de vida](/)
 

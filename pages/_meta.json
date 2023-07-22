@@ -1,24 +1,8 @@
 {
   "index": "Introdução ao Manual",
-  "another": "Another Page",
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
-  },
-  "company": {
-    "title": "Company",
-    "type": "menu",
-    "items": {
-      "about": {
-        "title": "About",
-        "href": "/about"
-      },
-      "contact": {
-        "title": "Contact Us",
-        "href": "mailto:hi@example.com"
-      }
-    }
-  }
+  "curriculo": "Currículo",
+  "highlights": "Destaques",
+  "indices": "Índice",
+  "listas": "Listas",
+  "moni": "Monitoria"
 }

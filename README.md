@@ -10,7 +10,7 @@
 - Horário das Aulas
 - Código da Sala
 
-### Curriculo
+### Currículo
 
 - Currículo do Curso
 - Validação de Disciplinas
@@ -24,6 +24,15 @@
 - Saúde e bem-estar
 
 ### Monitoria
+
+- Monitoria
+- EJEC
+
+### Listas
+
+- Telefones
+- Software
+- Paginas
 
 ## License
 

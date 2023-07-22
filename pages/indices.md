@@ -1,3 +1,5 @@
+# Índice
+
 ## Índice de Aproveitamento (IA)
 
 O Índice de Aproveitamento Semestral (IA) é calculado pela soma de todas as notas das disciplinas cursadas em um semestre, dividida pelo número de disciplinas. Este índice representa o desempenho do estudante em um semestre específico.

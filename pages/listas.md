@@ -4,35 +4,35 @@
 
 Link para os telefones da UFSC [telefones.ufsc.br](https://telefones.ufsc.br/public/)
 
-Delegacia de Polícia
+### Delegacia de Polícia
 [(48) 3524-5182](tel:+55483524-5182)
 Rua Sebastião José Lemos, 410 – Cidade Alta
 
-Delegacia de Proteção à criança, adolescente, mulher e idoso
+### Delegacia de Proteção à criança, adolescente, mulher e idoso
 [(48) 3529-0242](tel:+55483529-0242)
 Rua Regimento Barriga Verde, 800 – Centro
 
-Hospital Reginal de Araranguá
+### Hospital Reginal de Araranguá
 [(48) 3521-1500](tel:+55483521-1500)
 Rua Castro Alves, 303 – Coloninha
 
-Ponto de Taxi
+### Ponto de Taxi
 [(48) 3522-0460](tel:+55483522-0460)
 Pc. Hercílio Luz – Centro
 
-Terminal Rodoviário de Araranguá
+### Terminal Rodoviário de Araranguá
 [(48) 3522-0238](tel:+55483522-0238)
 Pc. Hercílio Luz, 612 – Centro
 
-Celesc (Energia)
+### Celesc (Energia)
 [(48) 3524-0780](tel:+55483524-0780)
 Rua Rui Barbosa, 47 – Centro
 
-Correios
+### Correios
 [(48) 3522-0586](tel:+55483522-0586)
 Av. Getúlio Vargas, 119 – Centro
 
-Prefeitura Municipal de Araranguá
+### Prefeitura Municipal de Araranguá
 [(48) 3524-1900](tel:+55483524-1900)
 Rua Dr. Virgulino de Queiróz, 200 – Centro
 

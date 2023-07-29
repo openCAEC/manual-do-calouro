@@ -10,7 +10,7 @@ delete nextra_conf.rewrites;
 const config = {
   ...nextra_conf,
   output: "export",
-  //distDir: "docs",
+  distDir: "docs",
   //basePath: "/manual-do-calouro",
   images: {
     loader: 'akamai',

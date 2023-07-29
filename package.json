@@ -4,7 +4,7 @@
   "description": "Manual do calouro",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && touch ./docs/.nojekyll",
     "start": "next start"
   },
   "license": "MIT",

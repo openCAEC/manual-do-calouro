@@ -27,6 +27,7 @@ const config: DocsThemeConfig = {
     return {
       description: "Manual do Calouro, CAEC",
       openGraph: {
+        locale: 'pt',
         images: [{ url: "https://nextra.vercel.app/og.png" }],
       },
     };

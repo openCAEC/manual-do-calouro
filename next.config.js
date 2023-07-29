@@ -1,3 +1,10 @@
+/** @type {import('next').NextConfig} */
+
+const withPWA = require("next-pwa")({
+  dest: "public",
+  disable: process.env.NODE_ENV === "development",
+});
+
 const withNextra = require("nextra")({
   theme: "nextra-theme-docs",
   themeConfig: "./theme.config.tsx",
@@ -8,7 +15,7 @@ let nextra_conf = withNextra();
 console.log("nextra_conf.rewrites", nextra_conf.rewrites());
 delete nextra_conf.rewrites;
 
-const config = {
+const config = withPWA({
   ...nextra_conf,
   output: "export",
   distDir: "docs",
@@ -22,7 +29,7 @@ const config = {
     locales: ['en', 'pt'],
     defaultLocale: 'pt'
   }*/
-};
+})
 
 console.log("-----", config);
 

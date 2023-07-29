@@ -23,3 +23,21 @@ Candidatura pode ocorrer a qualquer tempo, dependendo do interesse do aluno e do
 ## Empreendedorismo e inovação
 
 A UFSC incentiva o espírito empreendedor e possui iniciativas para apoiar alunos interessados em inovação e empreendedorismo. A Empresa Júnior de Engenharia de Computação formada e gerida por alunos de graduação da UFSC Araranguá. Você pode visitar o site para saber mais [EJEC](http://ejec.com.br).
+
+<script
+  src="https://giscus.app/client.js"
+  data-repo="openCAEC/manual-do-calouro"
+  data-repo-id="R_kgDOKBM0YA"
+  data-category="General"
+  data-category-id="DIC_kwDOKBM0YM4CYNzu"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="bottom"
+  data-theme="preferred_color_scheme"
+  data-lang="pt"
+  data-loading="lazy"
+  crossorigin="anonymous"
+  async
+></script>

@@ -1,5 +1,5 @@
 import React from "react";
-import { DocsThemeConfig } from "nextra-theme-docs";
+import { DocsThemeConfig, useConfig } from "nextra-theme-docs";
 
 const config: DocsThemeConfig = {
   logo: <span>CAEC</span>,
@@ -19,9 +19,22 @@ const config: DocsThemeConfig = {
   },
   head: (
     <>
-      <meta name="google-site-verification" content="Fn69z68OsVveXs1qgSQCWGkVY6sjVmhqAWXwRJHt4_w" />
+      <meta
+        name="google-site-verification"
+        content="Fn69z68OsVveXs1qgSQCWGkVY6sjVmhqAWXwRJHt4_w"
+      />
+      <meta name="description" content="Manual do Calouro, CAEC"></meta>
     </>
-  )
+  ),
+  useNextSeoProps() {
+    return {
+      description: "Manual do Calouro, CAEC",
+      openGraph: {
+        images: [{ url: "https://nextra.vercel.app/og.png" }],
+      },
+    };
+  },
+
   //faviconGlyph: '✦',
 };
 

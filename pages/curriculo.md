@@ -57,3 +57,21 @@ Se você já cursou disciplinas em outra Instituição de Ensino Superior (IES) 
 Compreendemos que, às vezes, circunstâncias inesperadas podem impedir os estudantes de realizar uma avaliação na data marcada. Se você não puder participar de uma avaliação por uma razão válida, poderá solicitar uma segunda chamada. 
 
 Para solicitar a segunda chamada de uma avaliação, você precisará preencher um formulário de solicitação de segunda chamada,e enviar dentro do prazo de três dias úteis após a data original da avaliação. O formulário deve ser acompanhado por documentos comprobatórios, como um atestado médico, caso a ausência tenha sido devido a problemas de saúde.
+
+<script
+  src="https://giscus.app/client.js"
+  data-repo="openCAEC/manual-do-calouro"
+  data-repo-id="R_kgDOKBM0YA"
+  data-category="General"
+  data-category-id="DIC_kwDOKBM0YM4CYNzu"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="bottom"
+  data-theme="preferred_color_scheme"
+  data-lang="pt"
+  data-loading="lazy"
+  crossorigin="anonymous"
+  async
+></script>

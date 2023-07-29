@@ -42,3 +42,21 @@ Matrículas e sistemas de ensino o primeiro passo para consultar o calendário a
 4.2 Para concorrer ao cargo de monitoria remunerada, o aluno deverá ter nota mínima de 7,0 na respectiva disciplina e se inscrever por meio da [Secretaria dos Departamentos Integrados](https://sid.cts.ararangua.ufsc.br/).
 
 Por favor, explore os links fornecidos para obter informações detalhadas. Lembre-se de que você pode entrar em contato para qualquer dúvida. Bem-vindo à UFSC!
+
+<script
+  src="https://giscus.app/client.js"
+  data-repo="openCAEC/manual-do-calouro"
+  data-repo-id="R_kgDOKBM0YA"
+  data-category="General"
+  data-category-id="DIC_kwDOKBM0YM4CYNzu"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="bottom"
+  data-theme="preferred_color_scheme"
+  data-lang="pt"
+  data-loading="lazy"
+  crossorigin="anonymous"
+  async
+></script>

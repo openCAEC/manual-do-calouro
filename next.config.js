@@ -13,8 +13,7 @@ const config = {
   distDir: "docs",
   basePath: "/manual-do-calouro",
   images: {
-    loader: 'akamai',
-    path: '',
+    unoptimized: true,
   },
   assetPrefix: './',
   /* Não da pra usar junto com output export

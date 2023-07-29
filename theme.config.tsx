@@ -17,6 +17,11 @@ const config: DocsThemeConfig = {
   editLink: {
     text: "Edite esta página no GitHub",
   },
+  head: (
+    <>
+      <meta name="google-site-verification" content="Fn69z68OsVveXs1qgSQCWGkVY6sjVmhqAWXwRJHt4_w" />
+    </>
+  )
   //faviconGlyph: '✦',
 };
 

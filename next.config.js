@@ -10,11 +10,13 @@ delete nextra_conf.rewrites;
 const config = {
   ...nextra_conf,
   output: "export",
-  distDir: "docs",
-  basePath: "/manual-do-calouro",
+  //distDir: "docs",
+  //basePath: "/manual-do-calouro",
   images: {
-    unoptimized: true,
+    loader: 'akamai',
+    path: '',
   },
+  assetPrefix: './',
   /* Não da pra usar junto com output export
   i18n: {
     locales: ['en', 'pt'],

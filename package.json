@@ -10,6 +10,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "@giscus/react": "^2.3.0",
     "next": "^13.4.12",
     "next-sitemap": "^4.1.8",
     "nextra": "latest",

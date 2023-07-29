@@ -1,5 +1,6 @@
 import React from "react";
-import { DocsThemeConfig, useConfig } from "nextra-theme-docs";
+import { DocsThemeConfig } from "nextra-theme-docs";
+import Giscus from "@giscus/react";
 
 const config: DocsThemeConfig = {
   logo: <span>CAEC</span>,
@@ -9,10 +10,6 @@ const config: DocsThemeConfig = {
   docsRepositoryBase: "https://github.com/shuding/nextra-docs-template",
   footer: {
     text: "Manual do Calouro, CAEC",
-  },
-  banner: {
-    key: "CAEC",
-    text: "CAEC",
   },
   editLink: {
     text: "Edite esta página no GitHub",
@@ -34,7 +31,25 @@ const config: DocsThemeConfig = {
       },
     };
   },
-
+  main({ children }) {
+    return (
+      <>
+        {children}
+        <Giscus
+          repo="openCAEC/manual-do-calouro"
+          repoId="R_kgDOKBM0YA"
+          category="General"
+          categoryId="DIC_kwDOKBM0YM4CYNzu"
+          mapping="pathname"
+          reactionsEnabled="1"
+          emitMetadata="0"
+          theme="preferred_color_scheme"
+          loading="lazy"
+          lang="pt"
+        />
+      </>
+    );
+  },
   //faviconGlyph: '✦',
 };
 

@@ -16,7 +16,7 @@ const config = {
     loader: 'akamai',
     path: '',
   },
-  assetPrefix: './',
+  assetPrefix: './manual-do-calouro',
   /* Não da pra usar junto com output export
   i18n: {
     locales: ['en', 'pt'],

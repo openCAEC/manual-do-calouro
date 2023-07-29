@@ -5,18 +5,20 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && touch ./docs/.nojekyll",
-    "start": "next start"
+    "start": "next start",
+    "postbuild": "next-sitemap"
   },
   "license": "MIT",
   "dependencies": {
-    "next": "^13.4.10",
+    "next": "^13.4.12",
+    "next-sitemap": "^4.1.8",
     "nextra": "latest",
     "nextra-theme-docs": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@types/node": "20.4.2",
+    "@types/node": "20.4.5",
     "typescript": "^5.1.6"
   }
 }

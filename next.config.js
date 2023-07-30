@@ -1,5 +1,4 @@
 /** @type {import('next').NextConfig} */
-const withPurgeCss = require("next-purgecss");
 
 const withNextra = require("nextra")({
   theme: "nextra-theme-docs",
@@ -16,8 +15,7 @@ const withPWA = require("next-pwa")({
   disable: process.env.NODE_ENV === "development",
 });
 
-const config = withPurgeCss(
-  withPWA({
+const config =  withPWA({
     ...nextra_conf,
     output: "export",
     distDir: "docs",
@@ -28,14 +26,13 @@ const config = withPurgeCss(
     assetPrefix: "./",
     compress: true,
     swcMinify: true,
-    purgeCssEnabled: ({ dev, isServer }) => !dev && !isServer,
     /* Não da pra usar junto com output export
       i18n: {
         locales: ['en', 'pt'],
         defaultLocale: 'pt'
       }*/
   })
-);
+
 
 console.log("-----", config);
 

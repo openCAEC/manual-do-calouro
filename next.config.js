@@ -8,7 +8,7 @@ const withPWA = require("next-pwa")({
 const withNextra = require("nextra")({
   theme: "nextra-theme-docs",
   themeConfig: "./theme.config.tsx",
-  unstable_staticImage: true
+  unstable_staticImage: true,
 });
 
 let nextra_conf = withNextra();
@@ -23,13 +23,14 @@ const config = withPWA({
   images: {
     unoptimized: true,
   },
-  assetPrefix: './',
+  assetPrefix: "./",
+  compress: true,
   /* Não da pra usar junto com output export
   i18n: {
     locales: ['en', 'pt'],
     defaultLocale: 'pt'
   }*/
-})
+});
 
 console.log("-----", config);
 

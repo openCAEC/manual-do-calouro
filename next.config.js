@@ -25,6 +25,19 @@ const config = withPWA({
   },
   assetPrefix: "./",
   compress: true,
+  plugins: [
+    [
+      "@fullhuman/postcss-purgecss",
+      {
+        content: [
+          "./pages/**/*.{js,jsx,ts,tsx,md,mdx}",
+          "./components/**/*.{js,jsx,ts,tsx,md,mdx}",
+        ],
+        defaultExtractor: (content) => content.match(/[\w-/:]+(?<!:)/g) || [],
+      },
+    ],
+    "postcss-preset-env",
+  ],
   /* Não da pra usar junto com output export
   i18n: {
     locales: ['en', 'pt'],

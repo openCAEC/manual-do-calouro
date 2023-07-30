@@ -5,9 +5,9 @@ import Giscus from "@giscus/react";
 const config: DocsThemeConfig = {
   logo: <span>CAEC</span>,
   project: {
-    link: "https://github.com/shuding/nextra-docs-template",
+    link: "https://github.com/openCAEC/manual-do-calouro",
   },
-  docsRepositoryBase: "https://github.com/shuding/nextra-docs-template",
+  docsRepositoryBase: "https://github.com/openCAEC/manual-do-calouro",
   footer: {
     text: "Manual do Calouro, CAEC",
   },

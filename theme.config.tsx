@@ -16,7 +16,7 @@ const config: DocsThemeConfig = {
   },
   head: (
     <>
-      <link rel="icon" type="image/png" href="/favicon.png"></link>
+      <link rel="icon" type="image/png" href="/manual-do-calouro/favicon.png"></link>
       <meta
         name="google-site-verification"
         content="Fn69z68OsVveXs1qgSQCWGkVY6sjVmhqAWXwRJHt4_w"

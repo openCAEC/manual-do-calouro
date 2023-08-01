@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://opencaec.github.io/manual-do-calouro/
+
+# Sitemaps
+Sitemap: https://opencaec.github.io/manual-do-calouro/sitemap.xml

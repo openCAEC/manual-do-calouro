@@ -7,7 +7,7 @@
     "build": "next build && touch ./docs/.nojekyll",
     "start": "next start",
     "compress": "node compress.js",
-    "postbuild": "next-sitemap"
+    "postbuild": "next-sitemap && planktos --root ./docs"
   },
   "license": "MIT",
   "dependencies": {
@@ -17,6 +17,7 @@
     "next-pwa": "^5.6.0",
     "next-sitemap": "^4.1.8",
     "nextra-theme-docs": "latest",
+    "planktos": "^0.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "typescript": "^5.1.6"

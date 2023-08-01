@@ -16,11 +16,13 @@ const config: DocsThemeConfig = {
   },
   head: (
     <>
+      <link rel="icon" type="image/png" href="/favicon.png"></link>
       <meta
         name="google-site-verification"
         content="Fn69z68OsVveXs1qgSQCWGkVY6sjVmhqAWXwRJHt4_w"
       />
       <meta name="description" content="Manual do Calouro, CAEC"></meta>
+      <script src="planktos/install.js"></script>
     </>
   ),
   useNextSeoProps() {
@@ -28,7 +30,7 @@ const config: DocsThemeConfig = {
       description: "Manual do Calouro, CAEC",
       openGraph: {
         locale: 'pt',
-        images: [{ url: "https://nextra.vercel.app/og.png" }],
+        images: [{ url: "https://opencaec.github.io/manual-do-calouro/favicon.png" }],
       },
     };
   },

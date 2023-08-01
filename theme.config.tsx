@@ -22,7 +22,7 @@ const config: DocsThemeConfig = {
         content="Fn69z68OsVveXs1qgSQCWGkVY6sjVmhqAWXwRJHt4_w"
       />
       <meta name="description" content="Manual do Calouro, CAEC"></meta>
-      <script src="planktos/install.js"></script>
+      <script src="/manual-do-calouro/planktos/install.js"></script>
     </>
   ),
   useNextSeoProps() {

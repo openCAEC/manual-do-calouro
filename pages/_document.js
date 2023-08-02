@@ -4,9 +4,7 @@ class MyDocument extends Document {
   render() {
     return (
       <Html lang="pt">
-        <Head>
-          <script src="planktos/install.js"></script>
-        </Head>
+        <Head/>
         <body>
           <Main />
           <NextScript />

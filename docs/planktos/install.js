@@ -2,7 +2,7 @@
   if (!('serviceWorker' in navigator)) return
 
   let attributes = document.currentScript.attributes
-  let sw = '/planktos.sw.js'
+  let sw = '/manual-do-calouro/planktos.sw.js'
   if (attributes['sw']) sw = attributes['sw'].value
   if (attributes['data-sw']) sw = attributes['data-sw'].value
 

@@ -1,7 +1,7 @@
 /* eslint-env browser, serviceworker */
 /* global Planktos */
 
-importScripts('/manual-do-calouro/planktos/planktos.min.js')
+importScripts('planktos/planktos.min.js')
 // or const Planktos = require('planktos')
 
 // The location of the planktos root directory
